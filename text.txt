@@ -26,3 +26,6 @@ kaosarullah51@gmail.com
 
 last attempt of git practice 
 again a commite from my origional account
+
+
+git clone practice
